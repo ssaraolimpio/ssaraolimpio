@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/user-attachments/assets/ca9a90d9-292a-497f-9023-065d50ba2553" width="200px" align="right" style="float: right; margin-left: 20px;">
+  <img src="https://github.com/user-attachments/assets/ca9a90d9-292a-497f-9023-065d50ba2553" width="260px" align="right" style="float: right; margin-left: 20px;">
   <h3>Sara Olimpio ☕</h3>
 </div>
 
